@@ -1,0 +1,4 @@
+spring: 
+    profiles: ak   #ak
+    application: 
+        name: microservicecloud-config-ak-ak 
